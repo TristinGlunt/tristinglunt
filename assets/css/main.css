@@ -6674,6 +6674,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		position: relative;
 		background-color: transparent;
+		width: 100%
 	}
 
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
@@ -6843,8 +6844,8 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			overflow: hidden;
-			width: 22.5rem;
-			max-width: 75vw;
+			width: 25.5rem;
+			max-width: 25vw;
 		}
 
 			.gallery.style2 article .image {
